@@ -6,3 +6,5 @@ adding reference to the introduction section
 adding a 2nd reference to the introduction section
 
 adding a results section
+
+adding a figures section
