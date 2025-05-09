@@ -10,3 +10,5 @@ adding a results section
 adding a figures section
 
 write conclusions
+
+adding author affiliations
